@@ -22,7 +22,7 @@ Terlihat masih ada kesalahan, tetapi untuk WPM (Word per Minute) naik dari yang 
 ## Percobaan 3  (Hari 5 - 6)
 Pada percobaan ini, hasil latihan saya selama 6 hari terlihat secara signifikan. Akurasi mengetik dan kecepatan mengetik saya meningkat dengan pesat.
 
-![Percobaan 3](link-gambar-3)  
+![Percobaan 3](https://github.com/AkuKubil/TUGAS-PWEB/blob/main/Percobaan%203.png)  
 
 ---
 
