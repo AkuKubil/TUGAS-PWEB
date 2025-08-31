@@ -13,7 +13,7 @@ Ini adalah hasil wpm ketika saya mencoba untuk mengetik dengan cepat. Masih bany
 ## Percobaan 2  (Hari 3 - 4)
 Pada percobaan ini, saya mulai memerhatikan dan berhati-hati dalam mengetik kata dan memastikan kata yang saya ketik benar. Selain itu, saya juga mulai menaikkan kecepatan mengetik saya sedikit demi sedikit.
 
-![Percobaan 2](link-gambar-2)  
+![Percobaan 2](https://github.com/AkuKubil/TUGAS-PWEB/blob/main/Percobaan%202.png)  
 
 Terlihat masih ada kesalahan, tetapi untuk WPM (Word per Minute) naik dari yang tadinya 78 ke 84 dan juga dengan akurasi yang naik dari 90% menjadi 94%.  
 
