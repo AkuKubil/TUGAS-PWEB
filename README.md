@@ -6,7 +6,7 @@ Dalam pemrograman web, salah satu aspek paling penting yang harus diperhatikan a
 ## Percobaan 1 (Hari 1 - 2)  
 Ini adalah hasil wpm ketika saya mencoba untuk mengetik dengan cepat. Masih banyak terjadi kesalahan dalam mengetik kata dan kecepatan mengetik saya masih cukup lambat.
 
-![Percobaan 1](link-gambar-1)  
+![Percobaan 1](https://github.com/AkuKubil/TUGAS-PWEB/blob/main/Percobaan%201.png)  
 
 ---
 
